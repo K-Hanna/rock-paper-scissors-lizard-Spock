@@ -2,23 +2,23 @@
 
 Simple on console game:
 
-rock - paper - scissors - lizard - Spock / stop
-rock
-rock
-rock - paper - scissors - lizard - Spock / stop
-lizard
-paper
-Lizard eats paper.
-rock - paper - scissors - lizard - Spock / stop
-scissors
-rock
-Rock crushes scissors.
-rock - paper - scissors - lizard - Spock / stop
-spock
-rock
-Wrong move.
-rock - paper - scissors - lizard - Spock / stop
-stop
-Thank you!
-Player's points: 1, computer's points: 3
-Computer won.
+rock - paper - scissors - lizard - Spock / stop<br>
+rock<br>
+rock<br>
+rock - paper - scissors - lizard - Spock / stop<br>
+lizard<br>
+paper<br>
+Lizard eats paper.<br>
+rock - paper - scissors - lizard - Spock / stop<br>
+scissors<br>
+rock<br>
+Rock crushes scissors.<br>
+rock - paper - scissors - lizard - Spock / stop<br>
+spock<br>
+rock<br>
+Wrong move.<br>
+rock - paper - scissors - lizard - Spock / stop<br>
+stop<br>
+Thank you!<br>
+Player's points: 1, computer's points: 3<br>
+Computer won.<br>
